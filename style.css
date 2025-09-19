@@ -11,18 +11,19 @@ body{
 }
 header{
     height: 100px;
-    background-color: green;
     color: tomato;
     display: flex;
     align-items: center;
-    justify-content: space-between;
-    padding: 0 20px;
-
+    padding-left: 75px;
+    gap: 24px;
+}
+header span{
+    font-weight: 600;
 }
 footer{
     height: 100px;
     background-color: green;
-    color: tomato;
+    color: yellow;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -34,5 +35,4 @@ main{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: black;
-}
+    background-color: tomato;
