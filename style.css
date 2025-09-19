@@ -26,13 +26,15 @@ img{
 }
 footer{
     height: 100px;
-    background-color: green;
-    color: yellow;
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 20px;
-
+    padding-right: 0px;
+    padding-left: 2400px;   
+    font weight:100;
+}
+footer div{
+    width: 60px;
 }
 main{
     flex-grow: 1;
