@@ -13,7 +13,7 @@ Layout adaptável a diferentes telas
 Design inspirado na Coca-Cola
 Header com menu hambúrguer
 Texto e imagens centralizados
-Footer com mapa e palavra "GLOBAL"
+Footer com mapa
 Responsivo e limpo
 
 🚀 Como Executar
