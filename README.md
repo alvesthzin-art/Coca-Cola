@@ -62,3 +62,5 @@ Abra o arquivo index.html em qualquer navegador moderno.
 </td>
 </tr>
 </table>
+
+*Projeto desenvolvido para fins didáticos no SENAI Jandira.*
